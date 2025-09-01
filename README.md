@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <[img src="https://pin.it/24sH8lGxE" alt="David Ore Banner"](https://github.com/Dio360/Dio350/blob/main/Programming%20aesthetic%20wallpaper.jpg) />
+ <img src="https://github.com/Dio360/Dio350/blob/main/Programming%20aesthetic%20wallpaper.jpg?raw=true" alt="Banner" width="80%" height="80%" >
+
 </p>
 
 <!-- Title -->
